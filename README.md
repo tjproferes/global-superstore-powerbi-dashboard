@@ -2,7 +2,7 @@
 
 ## Power BI Business Intelligence Reporting Solution
 
-images/executive_summary.png
+![Executive Summary](images/executive_summary.png)
 
 ---
 
@@ -68,6 +68,8 @@ Global Superstore Dataset
 # Data Model
 
 A star schema was developed to support scalable analytics and improve reporting performance.
+
+![](images/data_model.png)
 
 ## Fact Table
 
@@ -194,7 +196,7 @@ Provides an executive-level overview of business performance.
 - Growth Tracking
 - Interactive Filters
 
-images/executive_summary.png
+![](images/executive_summary.png)
 
 ---
 
@@ -217,7 +219,7 @@ Analyzes business performance across markets and regions.
 - Which regions are most profitable?
 - Which regions are growing fastest?
 
-images/regional_performance.png
+![](images/regional_performance.png)
 
 ---
 
@@ -239,7 +241,7 @@ Provides visibility into category and product-level performance.
 - Which categories generate profit?
 - Which subcategories create the most business value?
 
-images/product_analysis.png
+![](images/product_analysis.png)
 
 ---
 
@@ -269,7 +271,7 @@ Regions are classified as:
 - Southeast Asia maintains strong growth momentum.
 - Several table products generate negative profitability.
 
-images/opportunities_monitoring.png
+![](images/opportunities_monitoring.png)
 
 ---
 
@@ -297,7 +299,7 @@ Combines historical trend analysis with business recommendations.
 - Seasonal Decomposition
 - External Economic Indicators
 
-images/forecasting_recommendations.png
+![](images/forecasting_recommendations.png)
 
 ---
 
