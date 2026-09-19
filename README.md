@@ -73,7 +73,7 @@ A star schema was developed to support scalable analytics and improve reporting 
 
 ## Fact Table
 
-### Sales_Fact
+### Fact_Sales
 
 Transaction-level sales records.
 
@@ -98,6 +98,8 @@ Key fields:
 - Quarter
 - Month
 - Month Name
+- Month Start
+- Year Heirarchy
 - Year-Month
 - Year-Quarter
 
@@ -118,6 +120,7 @@ Key fields:
 
 - Geography Key
 - Market
+- Market 2
 - Region
 - Country
 - State
@@ -158,9 +161,6 @@ Total Customers
 Units Sold
 Profit Margin %
 Average Order Value
-```
-
-## Growth Metrics
 
 ```DAX
 Sales Growth %
