@@ -382,6 +382,7 @@ README.md
 Global_Superstore_Performance_Dashboard.pbix
 
 images/
+├── data_model.png
 ├── executive_summary.png
 ├── regional_performance.png
 ├── product_analysis.png
